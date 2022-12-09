@@ -10,6 +10,7 @@ class UserCV extends Component{
         <PersonalInfo />
         <Experience />
         <Contacts />
+        <Contacts />
       </>
     );
   }
